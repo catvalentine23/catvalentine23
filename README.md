@@ -1,7 +1,8 @@
 # Hi, I'm Evelyn 💻🌸🎧🎮 
 
 🎓 **IT Undergraduate** at ITM University  
-💻 Interested in AI, Deep Learning & Web Dev! 
+💻 Interested in AI, Deep Learning & Web Dev!
+
 🌱 Currently building cool open-source projects  
 
 ---
