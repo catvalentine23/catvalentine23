@@ -2,7 +2,7 @@
 
 🎓 **IT Undergraduate** at ITM University  
 💻 Interested in AI, Deep Learning & Web Dev!
-🌱 Currently building cool open-source projects  
+ 🌱 Currently building cool open-source projects  
 
 ---
 
